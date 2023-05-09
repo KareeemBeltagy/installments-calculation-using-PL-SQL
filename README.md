@@ -1,6 +1,5 @@
 # Calculate Installments' Dates and Amounts Using PLSQL
 
-This is a PLSQL project that calculates the installment dates and amounts for  different contracts.
 
 ## Project Brief Description
 The PLSQL script calculates the dates and amounts of installments for a given contract. The resulting data is stored in a new table in the database schema.
